@@ -1,0 +1,7 @@
+.linktext{
+  color: rgb(7, 164, 226);
+}
+.linktext:hover{
+  cursor: pointer;
+  color: rgb(18, 142, 190);
+}
